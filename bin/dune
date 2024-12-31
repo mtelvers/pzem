@@ -1,0 +1,4 @@
+(executable
+ (public_name display)
+ (name main)
+ (libraries stdint i2c))
